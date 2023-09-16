@@ -1,15 +1,12 @@
-### ⭐ Olá, seja bem vindo ao meu GitHub!!! ⭐
+# ✨ Hello Word... welcome to my GitHub!!! ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior-Calado&show_icons=true&theme=merko)
+📚 Software Engineering Student at Unicesumar <br> 
+🔭 Always trying to become better <br>
+❤️ "The only way to do great work is to love what you do." - Steve Jobs
 
 
-## Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-calado&layout=compact&theme=merko)
+## 🐙 My GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior-Calado&show_icons=true&theme=merko)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-calado&layout=compact&theme=merko)
 
 ## 💻 Tech Stack:
 <div style="display: inline_block"><br>          
@@ -21,8 +18,6 @@
   <img align="center" alt="jr-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="jr-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="jr-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">  
-
-  ![Snake animation](https://github.com/junior-calado/Junior-Calado/blob/output/github-contribution-grid-snake.svg)
 </div>
           
 ## 🌐 Socials:
