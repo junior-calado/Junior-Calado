@@ -6,8 +6,11 @@
 
 
 ## 🐙 My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior-Calado&show_icons=true&theme=merko)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-calado&layout=compact&theme=merko)
-
+<div>
+    <a href="https://github.com/junior-calado">
+    <img height="180cm" src = "https://github-readme-stats.vercel.app/api?username=junior-calado&show_icons=true&theme=merko"/>   
+    <img height="180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=junior-calado&layout=compact&theme=merko"/>
+</div>
 ## 💻 Tech Stack:
 <div style="display: inline_block"><br>          
   <img align="center" alt="jr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
